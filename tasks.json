@@ -1,6 +1,41 @@
 {
-    "name": "Ryan",
-    "age": 15,
-    "job": "AHHHHH",
-    "idk": "|"
+    "task 1": {
+        "id": "295e5de6-59a0-410d-a42a-30aa2e1eda95",
+        "title": "Drink two glasses of zynth",
+        "priority": 1,
+        "due_date": "07/05/2025 11:00",
+        "created_at": "2025-05-07T10:31:52.477760",
+        "updated_at": "2025-05-07T10:34:34.630134",
+        "description": "",
+        "completed": false,
+        "group": "VERY IMPORTANT",
+        "tags": [],
+        "starred": true
+    },
+    "task 2": {
+        "id": "ec9d73d7-5545-4992-8899-5bfbdf5e54b9",
+        "title": "Eat a cat you find on the street",
+        "priority": 2,
+        "due_date": "07/05/2025 11:25",
+        "created_at": "2025-05-07T10:32:31.436275",
+        "updated_at": "2025-05-07T10:32:31.436288",
+        "description": "",
+        "completed": false,
+        "group": "VERY IMPORTANT",
+        "tags": ["Failure"],
+        "starred": true
+    },
+    "task 3": {
+        "id": "3aae397c-6256-4b0f-9a9c-cf8f243258ee",
+        "title": "ABABABABA",
+        "priority": 3,
+        "due_date": "07/05/2025 12:00",
+        "created_at": "2025-05-07T10:32:56.602835",
+        "updated_at": "2025-05-07T10:32:56.602866",
+        "description": "",
+        "completed": false,
+        "group": "VERY IMPORTANT",
+        "tags": ["Failure"],
+        "starred": true
+    }
 }
